@@ -9,6 +9,11 @@ confirm
 prompt
 
 */
+
+// alert("Hola Mundo")
+// confirm("Desea guardar esto?")
+// prompt("Ingresa tu nombre")
+
 /* 
 DOM = Document Object Model 
 */
